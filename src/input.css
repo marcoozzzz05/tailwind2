@@ -39,4 +39,10 @@
     .center {
         @apply bg-purple-500 p-padding m-margin w-fit
     }
+    .block-container {
+        @apply flex flex-wrap
+    }
+    .block {
+        @apply bg-primary p-padding m-margin px-44
+    }
 }
