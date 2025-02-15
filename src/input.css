@@ -33,4 +33,10 @@
     .container3 {
         @apply flex flex-col
     }
+    .containerCenter {
+        @apply flex justify-center items-center
+    }
+    .center {
+        @apply bg-purple-500 p-padding m-margin w-fit
+    }
 }
