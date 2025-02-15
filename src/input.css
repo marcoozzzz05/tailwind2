@@ -15,4 +15,22 @@
     .btn2 {
         @apply bg-bgBtn2 text-textBtn2 p-2 rounded-lg
     }
+    .column {
+        @apply bg-red-500 p-padding m-margin py-40
+    }
+    .container1 {
+        @apply flex
+    }
+    .column2 {
+        @apply bg-blue-500 p-padding m-margin py-40 w-fit
+    }
+    .container2 {
+        @apply flex flex-row
+    }
+    .column3 {
+        @apply bg-green-500 p-padding m-margin py-40 w-fit
+    }
+    .container3 {
+        @apply flex flex-col
+    }
 }
