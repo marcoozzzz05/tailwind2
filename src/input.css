@@ -10,7 +10,7 @@
         @apply bg-bgCard text-textCard p-padding m-margin w-fit px-20 py-24
     }
     .btn1 {
-        @apply bg-bgBtn1 text-textBtn1 p-2 m-margin rounded-lg
+        @apply bg-bgBtn1 text-textBtn1 p-2 m-margin rounded-lg 
     }
     .btn2 {
         @apply bg-bgBtn2 text-textBtn2 p-2 rounded-lg
